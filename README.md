@@ -5,8 +5,7 @@
 
 Lua, html, css, c#, js
 
-🐌 Fivem developer
-Anticheat --> SOON
+🐌 S3_anticheat 
 
 - 📫 How to reach me Siebeke3#8176
 
