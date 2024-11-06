@@ -8,7 +8,7 @@ Lua, html, css, c#, js
 
 🐌 S3_anticheat 
 
-📫 How to reach me Siebeke3#8176
+📫 How to reach me siebe8176
 
 <!---
 Siebeke3/Siebeke3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
